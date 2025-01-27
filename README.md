@@ -1,16 +1,31 @@
-## Hi there 👋
+Sure! Here's a template for a professional and engaging GitHub README "About Me" section. Let me know if you'd like to customize it further.
 
-<!--
-**Sanders-Leiva/Sanders-Leiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Sanders Leiva!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I'm an **enthusiastic and passionate System Engineering student** with a strong focus on learning, creating, and collaborating on innovative projects.
+
+## 🌟 About Me
+- 🎓 **Education**: Currently pursuing a degree in **System Engineering**.
+- 💻 **Interests**: Web development, API design, system optimization.
+- 🌐 **Languages**: Fluent in Spanish, practicing English, and familiar with programming languages like JavaScript, C#, and Python.
+- 🚀 **Goals**: To contribute to impactful projects, grow as a developer, and make technology accessible for everyone.
+
+## 🔧 Skills & Tools
+- **Web Development**: HTML, CSS, JavaScript, TailwindCSS, React.js.
+- **Backend**: Node.js.
+- **Databases**: MySQL, SQL Server.
+- **Version Control**: Git & GitHub.
+- **Other Tools**: MasterControl, ethical research, and project documentation.
+
+## 🌱 Currently Working On
+- 📊 Developing a **Ferry Ticketing and Reservation System** for **Puerto San Jorge**, Rivas.
+- 📚 Exploring advanced topics in **inventory systems** and **billing automation**.
+
+## 🤝 Let's Connect
+- 💼 [LinkedIn](www.linkedin.com/in/sanders-leiva)
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 📧 Email: sandersleiva@gmail.com
+
+---
