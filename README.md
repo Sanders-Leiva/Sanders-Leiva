@@ -1,5 +1,3 @@
-Sure! Here's a template for a professional and engaging GitHub README "About Me" section. Let me know if you'd like to customize it further.
-
 ---
 
 # 👋 Hi, I'm Sanders Leiva!
